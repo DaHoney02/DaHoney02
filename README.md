@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">前端拾荒者</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">代码荒漠，深度学习</h3>
 <p align="left">
 </p>
 
